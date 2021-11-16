@@ -1,7 +1,7 @@
 {
 	"song": {
 		"player1": "bf",
-		"player2": "mokey",
+		"player2": "dad",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -5737,8 +5737,8 @@
 			}
 		],
 		"player3": "gf",
-		"song": "Boy",
-		"stage": "whitebackground",
+		"song": "Bopeebo",
+		"stage": "stage",
 		"needsVoices": true,
 		"validScore": true,
 		"speed": 3.5,
