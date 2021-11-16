@@ -5744,10 +5744,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "mokey",
+		"player2": "dad",
 		"player3": "gf",
-		"song": "Boy",
-		"stage": "whitebackground",
+		"song": "Bopeebo",
+		"stage": "stage",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 190,
