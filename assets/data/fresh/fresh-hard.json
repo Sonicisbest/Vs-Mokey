@@ -7264,9 +7264,9 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "grooby",
-		"player3": "gf-mokey-dilan",
-		"song": "Ah Hyuck",
+		"player2": "monster",
+		"player3": "gf-christmas",
+		"song": "Fresh",
 		"stage": "whitebackground",
 		"needsVoices": true,
 		"validScore": true,
