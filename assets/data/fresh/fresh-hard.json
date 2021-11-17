@@ -7267,7 +7267,7 @@
 		"player2": "monster",
 		"player3": "gf-christmas",
 		"song": "Fresh",
-		"stage": "whitebackground",
+		"stage": "stage",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 212,
