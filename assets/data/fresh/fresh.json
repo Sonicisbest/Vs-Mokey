@@ -7264,10 +7264,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "grooby",
-		"player3": "gf-mokey-dilan",
-		"song": "Ah Hyuck",
-		"stage": "whitebackground",
+		"player2": "monster",
+		"player3": "gf-christmas",
+		"song": "Fresh",
+		"stage": "stage",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 212,
